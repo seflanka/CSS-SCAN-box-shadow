@@ -12,3 +12,6 @@ https://www.toptal.com/designers/colourcode/monochrome-dark-color-builder --- PA
 https://www.remove.bg/ --- DEIXAR A UMAGEM SEM FUNDO
 
 https://convertio.co/pt/png-ico/ --- CONVERTER PNG PARA .ICO
+
+
+https://codepen.io/JavaScriptJunkie/pen/YzzNGeR --- CSS DE UMA APRIGNA DE CARTÃO DE CRÉDITO ANIMADA
