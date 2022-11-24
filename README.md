@@ -15,3 +15,6 @@ https://convertio.co/pt/png-ico/ --- CONVERTER PNG PARA .ICO
 
 
 https://codepen.io/JavaScriptJunkie/pen/YzzNGeR --- CSS DE UMA APRIGNA DE CARTÃO DE CRÉDITO ANIMADA
+
+
+https://www.npmjs.com/package/react-toastify ------ Biblioteca do react que traz o dising e animação de inputs pronto!
