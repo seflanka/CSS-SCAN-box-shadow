@@ -19,3 +19,6 @@ https://codepen.io/JavaScriptJunkie/pen/YzzNGeR --- CSS DE UMA APRIGNA DE CARTÃ
 
 
 https://www.npmjs.com/package/react-toastify ------ Biblioteca do react que traz o dising e animação de inputs pronto!
+
+
+https://pingback.com/tiagobrandao/animacoes-no-react-native-com-lottie -------- Site para ver como usar animações do lottie
